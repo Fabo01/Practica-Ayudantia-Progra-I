@@ -7,7 +7,6 @@ Consideren comentar cada codigo, sus funciones principales y lógica más comple
 ## Ejercicio 1: Ventana y etiqueta
 Crea una ventana principal usando CTk (`CTk()`) y agrega una etiqueta (`CTkLabel`) que muestre algún texto, por ejemplo "Interfaz bakana de Ctk". La ventana debe tener un tamaño de 777x333 píxeles.
 
-
 ## Ejercicio 2: Botón contador
 Crea una ventana con un botón (`CTkButton`) y una etiqueta (`CTkLabel`). Cada vez que presiones el botón, la etiqueta debe actualizarse mostrando cuántas veces se ha presionado el botón. Usa una variable para llevar la cuenta y el método `.configure()` para actualizar el texto de la etiqueta.
 
